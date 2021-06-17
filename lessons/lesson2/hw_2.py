@@ -92,8 +92,8 @@
 
 class Matrices:
     def __init__(self, A, B):
-        self.A=A
-        self.B=B
+        self.A = A
+        self.B = B
     def display(self,C):
         print('Resultant Matrix is:')
         for i in range(0, m):
